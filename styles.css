@@ -271,6 +271,10 @@ footer a:hover {
   gap: 18px;
 }
 
+.skills-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
 .focus-card,
 .credential-card,
 .role-card {
