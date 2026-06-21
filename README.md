@@ -1,6 +1,6 @@
 # Sarayu Kotha Portfolio
 
-Static portfolio for Sarayu Kotha.
+Static portfolio site for Sarayu Kotha.
 
 ## Publish
 
